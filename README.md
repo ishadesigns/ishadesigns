@@ -6,6 +6,18 @@ I'm a New York–based product designer and UX researcher, working across discov
 
 ---
 
+## 🚧 New product design portfolio · In progress
+
+[**Explore my new portfolio →**](https://ishadesigns.github.io/isha-portfolio/)
+
+I'm building an Apple Vision Pro–inspired portfolio that brings my projects into an interactive spatial environment. The direction grows out of my [**BMW × Apple Vision Pro project**](https://ishadesigns.github.io/isha-portfolio/projects/bmw/), where I explored how spatial interactions can help people compare, configure, and experience vehicles from home.
+
+The portfolio also introduces **Luke**, a voice-enabled companion inspired by my [**work on voice assistants at Geny Labs**](https://ishaux7.framer.website/geny-labs). Ask about my projects, experience, and design approach through text or supported browser voice input, with optional read-aloud. Luke uses built-in answers grounded in my portfolio and resume.
+
+This new portfolio is a work in progress, and I'm continuing to refine the experience.
+
+---
+
 ## 🔎 Selected work: Understanding trust in AI
 
 [**AI readiness at Geny Labs**](https://ishaux7.framer.website/geny-labs) explores how immigrant-owned service businesses experience voice assistants—and how cultural trust shapes adoption.
@@ -16,7 +28,7 @@ Through field research, I investigated why these interactions break down and tra
 
 ## ⭐ Featured projects
 
-🚘 [**BMW × Apple Vision Pro**](https://www.isha-kumari.com/bmw) — An immersive concept that helps prospective buyers compare and evaluate vehicles from home, bringing more clarity to a high-consideration purchase.
+🚘 [**BMW × Apple Vision Pro**](https://ishadesigns.github.io/isha-portfolio/projects/bmw/) — An immersive concept that helps prospective buyers compare and evaluate vehicles from home, bringing more clarity to a high-consideration purchase.
 
 🛍️ [**Chemistry on Myntra**](https://www.isha-kumari.com/myntra) — A mobile-first shopping redesign that surfaces style, trust, and value earlier, helping shoppers move from browsing to confident decisions.
 
